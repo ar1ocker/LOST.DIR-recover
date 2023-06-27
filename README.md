@@ -44,7 +44,7 @@ pkg install python git
 - Скачиваем LOST.DIR Recover
 
 ```
-git clone https://github.com/ar1ocker/LOST_DIR_recover_fleep
+git clone https://github.com/ar1ocker/LOST.DIR-recover/
 ```
 - Переходим в папку со скриптом
 ```
